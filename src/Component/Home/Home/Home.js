@@ -1,10 +1,11 @@
 import React from 'react';
+import SoftwareSolutionSection from '../SoftwareSolutionSection/SoftwareSolutionSection';
 
 const Home = () => {
     return (
-        <div>
-            <h1>this is home section</h1>
-        </div>
+        <section>
+            <SoftwareSolutionSection></SoftwareSolutionSection>
+        </section>
     );
 };
 
