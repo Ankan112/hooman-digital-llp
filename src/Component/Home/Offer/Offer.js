@@ -44,7 +44,7 @@ const Offer = () => {
                         <h2 className='font-bold text-3xl md:text-5xl my-9'>Content Creation</h2>
                         <p className='text-lg md:text-3xl font-bold'>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sunt vitae repudiandae nulla eos unde doloribus.</p>
                     </div>
-                    <div className='flex justify-center items-center ml-2 mt-4 md:ml-10 text-lg md:text-3xll md:w-1/2'>
+                    <div className='flex justify-center items-center ml-2 mt-4 md:ml-10 text-lg md:text-3xl md:w-1/2'>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati quam, culpa quis necessitatibus hic enim deserunt modi facere. Delectus fugit alias, obcaecati voluptatem totam facilis temporibus soluta adipisci vitae officiis Lorem ipsum dolor sit amet consectetur.</p>
                     </div>
                 </div>
