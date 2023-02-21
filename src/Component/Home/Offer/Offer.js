@@ -6,7 +6,7 @@ import imageContentCreation from '../../../images/assets/content-creation.png'
 
 const Offer = () => {
     return (
-        <section style={{ backgroundColor: '#1E1E1E' }}>
+        <section style={{ backgroundColor: '#02081D' }}>
             <div className='max-w-screen-xl w-11/12 mx-auto'>
                 <div>
                     <h2 className='text-center font-bold text-2xl md:text-6xl pt-14 text-white'>What We Offer</h2>
