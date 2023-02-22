@@ -23,7 +23,7 @@ const ContactUs = () => {
                             <div style={{ backgroundColor: '#02081D' }} className="">
                                 <img className='w-full' src={ellipse} alt="softwareSolutions" />
                             </div>
-                            <div class="circle">
+                            <div className="circle">
                                 <span>C</span>
                             </div>
 
