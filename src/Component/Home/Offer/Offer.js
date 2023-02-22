@@ -7,7 +7,7 @@ import imageContentCreation from '../../../images/assets/content-creation.png'
 const Offer = () => {
     return (
         <section style={{ backgroundColor: '#02081D' }}>
-            <div className='max-w-screen-xl w-11/12 mx-auto'>
+            <div className='max-w-screen-xl w-11/12 mx-auto pb-14'>
                 <div>
                     <h2 className='text-center font-bold text-2xl md:text-6xl pt-14 text-white'>What We Offer</h2>
                     <p className='w-10/12 mx-auto text-center mt-8 md:mt-16 text-white text-lg md:text-3xl'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad et exercitationem ullam nemo iure atque natus vel eum. Voluptatibus labore qui velit vero, dolor ab laudantium doloribus cumque beatae ullam!</p>
@@ -48,7 +48,7 @@ const Offer = () => {
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati quam, culpa quis necessitatibus hic enim deserunt modi facere. Delectus fugit alias, obcaecati voluptatem totam facilis temporibus soluta adipisci vitae officiis Lorem ipsum dolor sit amet consectetur.</p>
                     </div>
                 </div>
-                <div className='md:flex-row-reverse md:flex mt-10 md:mt-24 pb-4 text-white'>
+                <div className='md:flex-row-reverse md:flex mt-10 md:mt-24 text-white'>
                     <div style={{ backgroundColor: '#FFFFFF' }} className='rounded-3xl text-black pt-6 pl-5 md:pl-12 pb-16 pr-5 md:w-1/2'>
                         <div>
                             <img src={imageContentCreation} alt="imageWebDesign" />

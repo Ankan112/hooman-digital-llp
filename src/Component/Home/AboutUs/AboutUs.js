@@ -4,7 +4,7 @@ import aboutImg from '../../../images/assets/aboutUs.png'
 const AboutUs = () => {
     return (
         <section style={{ backgroundColor: '#02081D' }}>
-            <div className='max-w-screen-xl w-11/12 mx-auto'>
+            <div className='max-w-screen-xl w-11/12 mx-auto pt-24'>
                 <div className="hero">
                     <div className="hero-content px-0 py-10 flex-col lg:flex-row-reverse">
                         <div className="text-center lg:text-left">
