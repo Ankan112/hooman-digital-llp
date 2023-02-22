@@ -27,7 +27,6 @@ const ContactUs = () => {
                                 <span>C</span>
                             </div>
 
-
                         </div>
                     </div>
                 </div>
