@@ -4,6 +4,7 @@ import Achievement from '../Achievement/Achievement';
 import ChooseUs from '../ChooseUs/ChooseUs';
 import Creative from '../Creative/Creative';
 import Offer from '../Offer/Offer';
+import Review from '../Review/Review';
 import SoftwareSolutionSection from '../SoftwareSolutionSection/SoftwareSolutionSection';
 
 const Home = () => {
@@ -15,6 +16,7 @@ const Home = () => {
             <AboutUs></AboutUs>
             <Achievement></Achievement>
             <ChooseUs></ChooseUs>
+            <Review></Review>
         </section>
     );
 };

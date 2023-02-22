@@ -51,7 +51,7 @@ const ChooseUs = () => {
 
     return (
         <section style={{ backgroundColor: '#02081D' }}>
-            <div className='max-w-screen-xl pb-10 w-11/12 mx-auto'>
+            <div className='max-w-screen-xl pb-24 w-11/12 mx-auto'>
                 <div className="hero">
                     <div className="hero-content px-0 py-10 flex-col lg:flex-row">
                         <div className="text-center lg:text-left">
