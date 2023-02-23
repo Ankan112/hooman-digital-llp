@@ -25,7 +25,7 @@ const Navigation = () => {
             {({ open }) => (
                 <>
                     <div className="max-w-7xl mx-auto px-8 md:px-0">
-                        <div className="flex justify-between pt-10">
+                        <div className="flex justify-between py-6">
                             <div className="flex justify-between w-full items-center">
                                 <Link
                                     to="/"

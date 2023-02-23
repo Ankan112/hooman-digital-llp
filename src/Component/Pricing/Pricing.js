@@ -1,6 +1,6 @@
 import React from 'react';
 
-const About = () => {
+const Pricing = () => {
     return (
         <section className="bg-white dark:bg-gray-900 h-screen flex items-center">
             <div className="py-8 px-4 mx-auto max-w-screen-md text-center lg:py-16 lg:px-12">
@@ -12,4 +12,4 @@ const About = () => {
     );
 };
 
-export default About;
+export default Pricing;
