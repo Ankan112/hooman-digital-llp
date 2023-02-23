@@ -51,15 +51,15 @@ const ChooseUs = () => {
 
     return (
         <section style={{ backgroundColor: '#02081D' }}>
-            <div className='max-w-screen-xl pb-24 w-11/12 mx-auto'>
+            <div className='max-w-screen-xl pb-10 md:pb-24 w-11/12 mx-auto'>
                 <div className="hero">
-                    <div className="hero-content px-0 py-10 flex-col lg:flex-row">
+                    <div className="hero-content px-0 md:py-10 flex-col lg:flex-row">
                         <div className="text-center lg:text-left">
-                            <h2 className='text-xl md:text-4xl mb-8 font-bold text-white'>Why Choose Us</h2>
+                            <h2 className='text-2xl md:text-4xl mb-3 md:mb-8 font-bold text-white'>Why Choose Us</h2>
                             <h2 className='text-3xl md:text-6xl text-white font-bold'>We Make your Dreams into Reality</h2>
 
-                            <p className='text-lg md:text-2xl mt-10 text-white font-semibold'>Choose us for seamless integration with web3 technologies, user-friendly interface, and unparalleled security. Experience the power of blockchain with our innovative SaaS solutions, tailored to your business needs.</p>
-                            <button style={{ backgroundColor: '#0377FF' }} className='mt-14 text-white font-bold text-2xl p-4'>Discover More</button>
+                            <p className='text-lg md:text-2xl mt-4 md:mt-10 text-white font-semibold'>Choose us for seamless integration with web3 technologies, user-friendly interface, and unparalleled security. Experience the power of blockchain with our innovative SaaS solutions, tailored to your business needs.</p>
+                            <button style={{ backgroundColor: '#0377FF' }} className='mt-6 md:mt-14 text-white font-bold  text-lg  md:text-2xl p-4'>Discover More</button>
                         </div>
                         <div className="card flex-shrink-0 w-full max-w-xl">
                             <div style={{ backgroundColor: '#02081D' }} className="">

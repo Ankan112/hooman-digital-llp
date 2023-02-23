@@ -2,7 +2,7 @@ import React from 'react';
 
 const Achievement = () => {
     return (
-        <section className='py-20' style={{ backgroundColor: '#02081D' }}>
+        <section className='py-8 md:py-20' style={{ backgroundColor: '#02081D' }}>
             <div style={{ backgroundColor: '#0377FF' }} className='max-w-screen-xl w-11/12 mx-auto text-center md:flex justify-between items-center p-10 rounded-3xl'>
                 <div className='pt-10 md:pt-0'>
                     <h2 style={{ color: '#000F5F' }} className="text-5xl font-semibold">40+</h2>

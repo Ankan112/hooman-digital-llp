@@ -8,11 +8,11 @@ const SoftwareSolutionSection = () => {
                 <div className="hero">
                     <div className="hero-content px-0 py-10 flex-col lg:flex-row-reverse">
                         <div className="text-center lg:text-left">
-                            <h2 className='text-3xl md:text-5xl text-white font-bold'>Grow Your Business to new heights with our tailored software <span style={{ color: '#000F5F' }}>solutions</span></h2>
+                            <h2 className='text-3xl md:text-4xl text-white font-bold'>Grow Your Business to new heights with our tailored software <span style={{ color: '#000F5F' }}>solutions</span></h2>
 
-                            <p className='text-sm lg:text-xl mt-10 text-white font-semibold'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat magnam repudiandae quas officiis possimus aliquid, impedit vel, ut quidem ipsam, perferendis nulla voluptatum illum odio nemo velit animi.</p>
+                            <p className='text-lg lg:text-2xl mt-4 md:mt-10 text-white font-semibold'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat magnam repudiandae quas officiis possimus aliquid, impedit vel, ut quidem ipsam, perferendis nulla voluptatum illum odio nemo velit animi.</p>
                         </div>
-                        <div className="card flex-shrink-0 w-full max-w-xl">
+                        <div className="card flex-shrink-0 w-full max-w-2xl">
                             <div style={{ backgroundColor: '#0377FF' }} className="card-body">
                                 <img className='w-full' src={image} alt="softwareSolutions" />
                             </div>
